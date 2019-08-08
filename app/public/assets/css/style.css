@@ -1,0 +1,42 @@
+body {
+    background-image: url(../images/burgercheese.png);
+    background-size: 100% 200%;
+}
+
+p, li {
+    color: black;
+    font-size: 20px;
+}
+
+.modal-content{
+  position: relative;
+  z-index: 10;
+}
+
+button {
+    background-color: lightslategray;
+}
+
+/* transparent box from W3 Schools */
+div.background {
+    width: 100%;
+  }
+  
+  div.transbox {
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.7;
+  }
+  
+  div.transbox p {
+    margin: 5%;
+    font-weight: bold;
+    color: #000000;
+  }
+
+  #addburger {
+      margin-bottom: 20px;
+      font-size: 20px;
+      background-color: yellow;
+  }
