@@ -1,24 +1,24 @@
 {
     "development": {
-        "username": "root",
-        "password": "password",
-        "database": "burgersSequel_db",
-        "host": "localhost",
+        "username": "g3t6i7d2h0hidgsj",
+        "password": "hsjab8k329pd6p1t",
+        "database": "nqu8u78ylq53joix",
+        "host": "c584md9egjnm02sk.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
         "port": 3306,
         "dialect": "mysql"
     },
     "test": {
-        "username": "root",
-        "password": "password",
-        "database": "burgersSequel_db",
-        "host": "localhost",
+        "username": "g3t6i7d2h0hidgsj",
+        "password": "hsjab8k329pd6p1t",
+        "database": "nqu8u78ylq53joix",
+        "host": "c584md9egjnm02sk.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
         "dialect": "mysql"
     },
     "production": {
-        "username": "root",
-        "password": "password",
-        "database": "burgersSequel_db",
-        "host": "localhost",
+        "username": "g3t6i7d2h0hidgsj",
+        "password": "hsjab8k329pd6p1t",
+        "database": "nqu8u78ylq53joix",
+        "host": "c584md9egjnm02sk.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
         "dialect": "mysql",
         "use_env_variable": "JAWSDB_URL"
     }
