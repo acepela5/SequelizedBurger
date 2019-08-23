@@ -14,7 +14,7 @@ Use this app to see what burgers are avalible to be eaten! A list of avalible bu
 - Background from V. Boltneva @ Pexel.com
 ## Screenshot
 
-![ ](/burger.png)
+![ ](./burger.png)
 
 ## Author
 Adriana (Adi) Cepela - github - acepela5
