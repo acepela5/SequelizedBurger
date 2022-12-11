@@ -4,7 +4,7 @@
   "description": "Use this app to see what burgers are avalible to be eaten! A list of avalible burgers is dynamically created on the left side using data from a table in MySQL. Each burger has a button that when clicked will move the burger to the right side and mark it as \"Devoured\".The user can create a burger name and add it to the list. The table in MySQL is also updated to reflect the same data as the app. \r # Tools:\r - Handlebars\r - Node.JS\r - JSON\r - Express\r - Express Path\r - Bootstrap\r - CSS\r - Background from V. Boltneva @ Pexel.com\r # Author\r Adriana (Adi) Cepela - github - acepela5\r ## Deployed Link\r https://burger-live-cepela.herokuapp.com/",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-handlebars": "^3.1.0",
     "express-path": "^0.3.8",
     "handlebars": "^4.1.2",
